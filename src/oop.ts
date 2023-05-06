@@ -47,8 +47,6 @@ class Developer extends Person1 {
     }
 }
 
-
-
 // type guard
 // kono type k badha dawa
 // keyof  guard
