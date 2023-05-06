@@ -3,7 +3,7 @@ const heroObj: {
     age: number;
     profession: string;
     isMarried: boolean;
-    wifeName?: string;
+    wifeName?: string; // optional type
     cinemaName: string;
 } = {
     name: "Sakib",
