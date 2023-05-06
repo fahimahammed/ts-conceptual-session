@@ -272,3 +272,7 @@ class Bus extends MyBus{
 }
 
 const bus1 = new Bus();
+
+
+// encapsulation
+//private, protected
